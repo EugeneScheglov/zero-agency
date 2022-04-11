@@ -1,0 +1,10 @@
+.content__info {
+    font-family: 'Aeonik Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 150%;
+
+    color: #6D6D6D;
+    width: 550px;
+}

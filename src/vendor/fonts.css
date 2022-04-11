@@ -1,0 +1,13 @@
+@font-face {
+  src: url("../fonts/AeonikPro-Regular.woff") format("woff");
+  font-family: 'Aeonik Pro';
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url("../fonts/AeonikPro-Medium.woff") format("woff");
+  font-family: 'Aeonik Pro';
+  font-style: normal;
+  font-weight: 500;
+}
