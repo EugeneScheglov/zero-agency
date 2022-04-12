@@ -1,0 +1,5 @@
+.sector__column {
+    display: flex;
+    align-items: center;
+    margin-bottom: 150px;
+}

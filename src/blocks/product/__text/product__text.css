@@ -1,0 +1,13 @@
+.product__text {
+    font-family: 'Aeonik Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 90%;
+    margin: 50px 0;
+
+    text-align: right;
+    letter-spacing: -0.03em;
+
+    color: #8F8F91;
+}

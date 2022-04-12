@@ -1,0 +1,10 @@
+.progress__info {
+    font-family: 'Aeonik Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    margin: 50px 0 80px 0;
+
+    color: #FFFFFF;
+}
