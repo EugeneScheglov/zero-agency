@@ -1,0 +1,11 @@
+.process__title {
+    font-family: 'Aeonik Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 120%;
+    /* or 67px */
+
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}

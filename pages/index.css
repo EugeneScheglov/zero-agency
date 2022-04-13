@@ -54,3 +54,15 @@
 @import url(../blocks/partners/__block/partners__block.css);
 @import url(../blocks/partners/__slider/partners__slider.css);
 @import url(../blocks/partners/__slider/partners__slider-image.css);
+
+/* process */
+@import url(../blocks/process/process.css);
+@import url(../blocks/process/__column/process__column.css);
+@import url(../blocks/process/__image/process__image.css);
+@import url(../blocks/process/__image/process__image-right.css);
+@import url(../blocks/process/__image/process__image-left.css);
+@import url(../blocks/process/__title/process__title.css);
+@import url(../blocks/process/__text/process__text.css);
+
+/* process */
+@import url(../blocks/footer/footer.css);
