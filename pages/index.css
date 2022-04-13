@@ -66,3 +66,8 @@
 
 /* process */
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__menu/footer__menu-link.css);
+@import url(../blocks/footer/__menu/_grey/footer__menu_grey.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_title/footer__column_title.css);

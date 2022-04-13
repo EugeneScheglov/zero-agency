@@ -1,0 +1,13 @@
+.footer__menu-link {
+    text-decoration: none;
+    font-family: 'Aeonik Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height */
+
+    letter-spacing: -0.03em;
+
+    color: #FFFFFF;
+}
