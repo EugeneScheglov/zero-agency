@@ -1,4 +1,14 @@
 .partners__slider-image {
     width: 200px;
-    padding: 0 50px 0 50px;
+    padding: 0 100px 0 100px;
+    animation: scroll 20s infinite linear;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translate(-600%, 0);
+    }
+    150% {
+        transform: translate(600%, 0);
+    }
 }
