@@ -1,0 +1,14 @@
+.preview__text {
+    font-family: 'Aeonik Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 100%;
+    /* or 56px */
+
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    margin-top: 200px;
+    display: flex;
+    justify-content: flex-end;
+}

@@ -1,0 +1,10 @@
+.columns__grid {
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: repeat(3, calc(33.3333333% - 15px));
+    -ms-grid-columns: repeat(3, calc(33.3333333% - 15px));
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,7 @@
+.elements {
+    display: flex;
+    /* height: 675px; */
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 0;
+}

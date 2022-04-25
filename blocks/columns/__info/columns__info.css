@@ -1,0 +1,5 @@
+.columns__info {
+    display: flex;
+    flex-direction: column;
+    padding: 0 30px;
+}
