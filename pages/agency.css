@@ -1,0 +1,58 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+/* page */
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__container/page__container.css);
+
+/* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__info/header__info.css);
+
+/* preview */
+@import url(../blocks/preview/preview.css);
+@import url(../blocks/preview/__image/preview__image.css);
+@import url(../blocks/preview/__title/preview__title.css);
+
+/* grey */
+@import url(../blocks/product/__column/_grey/product__column_grey.css);
+@import url(../blocks/content/__title/_grey/content__title_grey.css);
+
+/* information */
+@import url(../blocks/information/information.css);
+@import url(../blocks/information/__title/information__title.css);
+@import url(../blocks/information/__circle/information__circle.css);
+@import url(../blocks/information/__text/information__text.css);
+@import url(../blocks/information/__circle/information__circle-left.css);
+@import url(../blocks/information/__circle/information__circle-right.css);
+@import url(../blocks/information/__circle/information__circle-center.css);
+@import url(../blocks/information/__elements/information__elements.css);
+@import url(../blocks/information/__text/information__text-center.css);
+@import url(../blocks/information/__text/information__text-right.css);
+@import url(../blocks/information/__text/information__text-left.css);
+@import url(../blocks/information/__title/information__title-right.css);
+
+/* zero */
+@import url(../blocks/zero/zero.css);
+@import url(../blocks/zero/__images/zero__images.css);
+@import url(../blocks/zero/__images/zero__images-view.css);
+
+/* details */
+@import url(../blocks/details/details.css);
+@import url(../blocks/details/__element/details__element.css);
+@import url(../blocks/details/__image/details__image.css);
+@import url(../blocks/details/__column/details__column.css);
+@import url(../blocks/details/__element/details__element-right.css);
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__menu/footer__menu-link.css);
+@import url(../blocks/footer/__menu/_grey/footer__menu_grey.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_title/footer__column_title.css);
+@import url(../blocks/footer/__menu/_link/footer__menu_link.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__column/_right/footer__column_right.css);
+@import url(../blocks/footer/__column/_left/footer__column_left.css);
